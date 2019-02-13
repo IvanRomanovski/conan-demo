@@ -1,0 +1,1 @@
+/Users/ivanr/emsdk/emscripten/1.38.24/em++     @CMakeFiles/cpp_demo.dir/objects1.rsp  -o cpp_demo.js @CMakeFiles/cpp_demo.dir/linklibs.rsp

@@ -1,0 +1,1 @@
+/Users/ivanr/emsdk/emscripten/1.38.24/em++ -fPIC   -shared -Wl,-soname,libchucknorris.so -o libchucknorris.so @CMakeFiles/chucknorris.dir/objects1.rsp 

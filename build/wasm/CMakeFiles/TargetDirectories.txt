@@ -1,0 +1,4 @@
+/Users/ivanr/Projects/cmake-test/build/wasm/CMakeFiles/rebuild_cache.dir
+/Users/ivanr/Projects/cmake-test/build/wasm/CMakeFiles/edit_cache.dir
+/Users/ivanr/Projects/cmake-test/build/wasm/CMakeFiles/cpp_demo.dir
+/Users/ivanr/Projects/cmake-test/build/wasm/CMakeFiles/chucknorris.dir
