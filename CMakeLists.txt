@@ -3,11 +3,15 @@ set(CMAKE_CXX_STANDARD 11)
 
 project(ChuckNorris)
 
-add_library(chucknorris SHARED
+include(${CMAKE_BINARY_DIR}/conanbuildinfo.cmake)
+conan_basic_setup(TARGETS)
+
+add_library(chucknorris
     include/ChuckNorris.hpp
     src/ChuckNorris.cpp
 )
 
+target_link_libraries(chucknorris CONAN_PKG::sqlite3)
 
 target_include_directories(
   chucknorris
