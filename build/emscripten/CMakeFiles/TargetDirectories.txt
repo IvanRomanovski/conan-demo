@@ -1,0 +1,4 @@
+/Users/ivanr/Projects/cmake-test/build/emscripten/CMakeFiles/rebuild_cache.dir
+/Users/ivanr/Projects/cmake-test/build/emscripten/CMakeFiles/edit_cache.dir
+/Users/ivanr/Projects/cmake-test/build/emscripten/CMakeFiles/cpp_demo.dir
+/Users/ivanr/Projects/cmake-test/build/emscripten/CMakeFiles/chucknorris.dir

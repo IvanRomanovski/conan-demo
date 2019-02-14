@@ -1,0 +1,15 @@
+{
+ "profile": "[settings]\narch=x86_64\narch_build=x86_64\nbuild_type=Release\ncompiler=apple-clang\ncompiler.libcxx=libc++\ncompiler.version=10.0\nos=Macos\nos_build=Macos\n[options]\n[build_requires]\n*: emsdk_installer/1.38.22@bincrafters/stable\n[env]\n", 
+ "root": {
+  "version": null, 
+  "name": null, 
+  "channel": null, 
+  "user": null
+ }, 
+ "options": [
+  [
+   "shared", 
+   "False"
+  ]
+ ]
+}

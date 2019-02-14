@@ -1,0 +1,1 @@
+/Users/ivanr/.conan/data/emsdk_installer/1.38.22/bincrafters/stable/package/16edc5c715408e005b54d61db41959d8f63a70c2/emscripten/1.38.22/em++ -fPIC -DNDEBUG -O2 -O2 -shared -Wl,-soname,libchucknorris.so -o libchucknorris.so @CMakeFiles/chucknorris.dir/objects1.rsp 
